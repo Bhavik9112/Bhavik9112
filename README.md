@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhavik Nahar (Jain)
+# 👋 Hi, I'm Bhavik Nahar
 
 <div align="center">
   
